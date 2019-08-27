@@ -123,6 +123,10 @@
 				"notFound": {
 					"viewName": "NotFound",
 					"viewId": "notFound"
+				},
+				"pass": {
+					"viewType": "XML",
+					"viewName": "pass"
 				}
 			}
 		}
